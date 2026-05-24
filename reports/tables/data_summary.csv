@@ -1,0 +1,17 @@
+column,dtype,missing_pct,unique_values
+TransactionID,object,0.0,2512
+AccountID,object,0.0,495
+TransactionAmount,float64,0.0,2455
+TransactionDate,object,0.0,2512
+TransactionType,object,0.0,2
+Location,object,0.0,43
+DeviceID,object,0.0,681
+IP Address,object,0.0,592
+MerchantID,object,0.0,100
+Channel,object,0.0,3
+CustomerAge,int64,0.0,63
+CustomerOccupation,object,0.0,4
+TransactionDuration,int64,0.0,288
+LoginAttempts,int64,0.0,5
+AccountBalance,float64,0.0,2510
+PreviousTransactionDate,object,0.0,360

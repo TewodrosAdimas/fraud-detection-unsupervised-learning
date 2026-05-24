@@ -1,0 +1,17 @@
+column,missing_count,missing_pct
+TransactionID,0,0.0
+AccountID,0,0.0
+TransactionAmount,0,0.0
+TransactionDate,0,0.0
+TransactionType,0,0.0
+Location,0,0.0
+DeviceID,0,0.0
+IP Address,0,0.0
+MerchantID,0,0.0
+Channel,0,0.0
+CustomerAge,0,0.0
+CustomerOccupation,0,0.0
+TransactionDuration,0,0.0
+LoginAttempts,0,0.0
+AccountBalance,0,0.0
+PreviousTransactionDate,0,0.0
