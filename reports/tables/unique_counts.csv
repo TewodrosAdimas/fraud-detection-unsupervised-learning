@@ -1,0 +1,17 @@
+column,unique_count
+TransactionID,2512
+AccountID,495
+TransactionAmount,2455
+TransactionDate,2512
+TransactionType,2
+Location,43
+DeviceID,681
+IP Address,592
+MerchantID,100
+Channel,3
+CustomerAge,63
+CustomerOccupation,4
+TransactionDuration,288
+LoginAttempts,5
+AccountBalance,2510
+PreviousTransactionDate,360
